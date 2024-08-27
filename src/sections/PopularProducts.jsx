@@ -1,4 +1,5 @@
 import { products } from "../constants";
+import  PopularProductCard  from "../Components/PopularProductCard"
 
 const PopularProducts = () => {
   return (
